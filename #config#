@@ -1,0 +1,11 @@
+# Period to wait between initialising recipe processing (minutes). If period is too short (less than processing run time) then processing will run continiously
+period = 10
+
+# Number of times per day to deliver any updates
+frequency = 3
+
+# Do not deliver between these times (hours)
+idle_time_start = 3.0
+idle_time_end   = 6.0
+
+"
