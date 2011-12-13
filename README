@@ -1,1 +1,13 @@
-README to stop GitHub complaining.
+To install:
+
+1. Place this folder somewhere suitable.
+
+2. Edit settings.cfg and tell it where you want your logs, ebooks and recipes to be stored.
+
+3. Edit settings.cfg and tell it your SMTP server settings. They are currently set for gmail.
+
+4. Edit settings.cfg and tell it how often you want you recipies processed and your ebooks delivered.
+
+5. Run generate-cron.py to create a .cron table.
+
+6. Run crontab on the .cron table to begin.
