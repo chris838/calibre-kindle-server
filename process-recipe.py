@@ -16,7 +16,7 @@ kindle_address = "chrish_71@kindle.com"
 smtp_server = 'smtp.gmail.com'
 smtp_port = '587'
 smtp_username = 'calibre.kindle.server@gmail.com'
-smtp_password = 'paspaspas'
+smtp_password = 'password_in_plaintext_please_dont_steal_my_gmail_account_git_users'
 
 # Path to directories
 log_dir = 'logs'

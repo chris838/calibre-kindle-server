@@ -23,7 +23,7 @@ calibre version: 0.7.44
  'format_scene_breaks': True,
  'html_unwrap_factor': 0.4,
  'input_encoding': None,
- 'input_profile': <calibre.customize.profiles.InputProfile object at 0xa81b1cc>,
+ 'input_profile': <calibre.customize.profiles.InputProfile object at 0xad5408c>,
  'insert_blank_line': False,
  'insert_metadata': False,
  'isbn': None,
@@ -47,7 +47,7 @@ calibre version: 0.7.44
  'no_chapters_in_toc': False,
  'no_inline_navbars': True,
  'no_inline_toc': False,
- 'output_profile': <calibre.customize.profiles.KindleOutput object at 0xa81bb2c>,
+ 'output_profile': <calibre.customize.profiles.KindleOutput object at 0xad549ec>,
  'page_breaks_before': None,
  'password': None,
  'personal_doc': '[PDOC]',
@@ -87,3 +87,1700 @@ calibre version: 0.7.44
  'verbose': 2}
 1% Converting input to HTML...
 InputFormatPlugin: Recipe Input running
+1% Fetching feeds...
+1% Fetching feed News Home...
+Skipping article 'Most wanted' riot suspect images (Wed, 14 Dec, 2011 00:09) from feed News Home as it is too old.
+Skipping article Apple papers are sold for $1.6m (Tue, 13 Dec, 2011 21:43) from feed News Home as it is too old.
+Skipping article ICT 'poor in secondary schools' (Wed, 14 Dec, 2011 02:46) from feed News Home as it is too old.
+Skipping article Trillion frames per second camera (Tue, 13 Dec, 2011 17:54) from feed News Home as it is too old.
+Skipping article Higgs 'may have been identified' (Tue, 13 Dec, 2011 17:20) from feed News Home as it is too old.
+Skipping article Canada under fire over Kyoto exit (Tue, 13 Dec, 2011 18:40) from feed News Home as it is too old.
+1% Fetching feed UK...
+1% Fetching feed World...
+Skipping article PNG moves to end 'two PMs' crisis (Wed, 14 Dec, 2011 03:14) from feed World as it is too old.
+Skipping article Microsoft founder's space venture (Wed, 14 Dec, 2011 00:51) from feed World as it is too old.
+Skipping article Chile tie campaign to beat heat (Wed, 14 Dec, 2011 00:45) from feed World as it is too old.
+Skipping article US vow to protect voters' rights (Wed, 14 Dec, 2011 03:20) from feed World as it is too old.
+Skipping article Tax cut and oil clause pass House (Wed, 14 Dec, 2011 04:19) from feed World as it is too old.
+Skipping article US brings Siemens bribery charges (Tue, 13 Dec, 2011 17:27) from feed World as it is too old.
+Skipping article 'Good progress' for Brazil's Lula (Mon, 12 Dec, 2011 22:39) from feed World as it is too old.
+Skipping article Global malaria death toll falling (Tue, 13 Dec, 2011 13:14) from feed World as it is too old.
+Skipping article ICC judges refer Malawi to UN (Tue, 13 Dec, 2011 13:22) from feed World as it is too old.
+Skipping article Deadly clashes hit northern Syria (Tue, 13 Dec, 2011 17:56) from feed World as it is too old.
+1% Fetching feed US & Canada...
+Skipping article US vow to protect voters' rights (Wed, 14 Dec, 2011 03:20) from feed US & Canada as it is too old.
+Skipping article Tax cut and oil clause pass House (Wed, 14 Dec, 2011 04:19) from feed US & Canada as it is too old.
+Skipping article Strict ban on car-phone use urged (Wed, 14 Dec, 2011 00:02) from feed US & Canada as it is too old.
+Skipping article Microsoft founder's space venture (Wed, 14 Dec, 2011 00:51) from feed US & Canada as it is too old.
+Skipping article Woman's remains found at NY beach (Tue, 13 Dec, 2011 22:12) from feed US & Canada as it is too old.
+Skipping article Canada under fire over Kyoto exit (Tue, 13 Dec, 2011 18:40) from feed US & Canada as it is too old.
+Skipping article Sandusky skips Penn State hearing (Tue, 13 Dec, 2011 15:03) from feed US & Canada as it is too old.
+Skipping article Apple papers are sold for $1.6m (Tue, 13 Dec, 2011 21:43) from feed US & Canada as it is too old.
+Skipping article US freezes $700m in Pakistan aid (Tue, 13 Dec, 2011 17:00) from feed US & Canada as it is too old.
+Skipping article VIDEO: Bear hitches ride on rubbish truck (Wed, 14 Dec, 2011 00:18) from feed US & Canada as it is too old.
+Skipping article Trillion frames per second camera (Tue, 13 Dec, 2011 17:54) from feed US & Canada as it is too old.
+Skipping article EU delays Google Motorola merger (Tue, 13 Dec, 2011 13:18) from feed US & Canada as it is too old.
+Skipping article US retail sales growth slows down (Tue, 13 Dec, 2011 14:45) from feed US & Canada as it is too old.
+Skipping article Country profile: Canada (Mon, 17 Oct, 2011 12:07) from feed US & Canada as it is too old.
+Skipping article Regions and territories: Puerto Rico (Thu, 16 Jun, 2011 07:52) from feed US & Canada as it is too old.
+Skipping article Regions and territories: St Pierre and Miquelon (Wed, 02 Nov, 2011 14:45) from feed US & Canada as it is too old.
+Skipping article Country profile: United States of America (Tue, 18 Oct, 2011 11:37) from feed US & Canada as it is too old.
+Skipping article VIDEO: Canada withdraws from Kyoto pact (Tue, 13 Dec, 2011 04:54) from feed US & Canada as it is too old.
+Skipping article VIDEO: 'Iraq will be tested after US goes' (Mon, 12 Dec, 2011 23:37) from feed US & Canada as it is too old.
+Skipping article VIDEO: Occupy at Oakland and Long Beach (Tue, 13 Dec, 2011 01:40) from feed US & Canada as it is too old.
+Skipping article VIDEO: Obama pays tribute to Iraq's PM (Mon, 12 Dec, 2011 18:51) from feed US & Canada as it is too old.
+Skipping article VIDEO: Iran shows off captured US drone (Fri, 09 Dec, 2011 01:46) from feed US & Canada as it is too old.
+Skipping article VIDEO: 'Our hearts are broken again' (Thu, 08 Dec, 2011 23:33) from feed US & Canada as it is too old.
+Skipping article GOP candidates - Michele Bachmann (Fri, 02 Dec, 2011 12:11) from feed US & Canada as it is too old.
+Skipping article How the Iraq war followed one veteran home (Wed, 14 Dec, 2011 03:35) from feed US & Canada as it is too old.
+Skipping article How useful is a captured stealth drone? (Wed, 14 Dec, 2011 00:26) from feed US & Canada as it is too old.
+Skipping article VIDEO: Tech war: New York v San Francisco (Tue, 13 Dec, 2011 03:21) from feed US & Canada as it is too old.
+Skipping article Could US-style local TV work in the UK? (Tue, 13 Dec, 2011 13:56) from feed US & Canada as it is too old.
+Skipping article VIDEO: US military's first Hindu chaplain (Mon, 12 Dec, 2011 00:52) from feed US & Canada as it is too old.
+Skipping article The Americans occupying the London Stock Exchange (Mon, 12 Dec, 2011 00:38) from feed US & Canada as it is too old.
+1% Fetching feed Politics...
+Skipping article MPs fear Big Society 'confusion' (Wed, 14 Dec, 2011 02:14) from feed Politics as it is too old.
+Skipping article 'Naive' Werritty admits mistakes (Tue, 13 Dec, 2011 22:26) from feed Politics as it is too old.
+Skipping article Children 'being wrongly adopted' (Tue, 13 Dec, 2011 15:39) from feed Politics as it is too old.
+Skipping article UK 'made compromise impossible' (Tue, 13 Dec, 2011 18:16) from feed Politics as it is too old.
+Skipping article Emails on hacking sent to Murdoch (Tue, 13 Dec, 2011 19:32) from feed Politics as it is too old.
+Skipping article Petition proposal to 'recall MPs' (Tue, 13 Dec, 2011 17:22) from feed Politics as it is too old.
+Skipping article VIDEO: House of Commons (Thu, 24 Mar, 2011 11:54) from feed Politics as it is too old.
+Skipping article Rivers Agency 'maps' flood zones (Tue, 13 Dec, 2011 18:17) from feed Politics as it is too old.
+Skipping article Introduction (Tue, 20 Jul, 2010 15:10) from feed Politics as it is too old.
+Skipping article Introduction (Wed, 28 Oct, 2009 17:00) from feed Politics as it is too old.
+Skipping article Introduction (Tue, 31 May, 2011 14:54) from feed Politics as it is too old.
+Skipping article 200 wind turbines for South West? (Tue, 13 Dec, 2011 16:49) from feed Politics as it is too old.
+Skipping article Iron Lady movie divides opinion (Fri, 09 Dec, 2011 15:55) from feed Politics as it is too old.
+Skipping article Political editors across England (Fri, 17 Jun, 2011 14:15) from feed Politics as it is too old.
+Skipping article Links to UK political websites (Wed, 13 May, 2009 16:40) from feed Politics as it is too old.
+Skipping article Who's who: Cameron's government (Tue, 18 Oct, 2011 14:30) from feed Politics as it is too old.
+Skipping article Ed Miliband's shadow cabinet (Fri, 07 Oct, 2011 14:56) from feed Politics as it is too old.
+Skipping article Global Parliaments online (Fri, 25 Jun, 2010 11:33) from feed Politics as it is too old.
+Skipping article VIDEO: Cameron backs High Street revival (Tue, 13 Dec, 2011 21:14) from feed Politics as it is too old.
+Skipping article VIDEO: Barroso: UK compromise 'impossible' (Tue, 13 Dec, 2011 10:05) from feed Politics as it is too old.
+Skipping article VIDEO: Will there ever be entente cordiale? (Tue, 13 Dec, 2011 11:12) from feed Politics as it is too old.
+Skipping article VIDEO: EU cabinet meeting 'business-like' (Tue, 13 Dec, 2011 11:49) from feed Politics as it is too old.
+Skipping article VIDEO: More public sector strikes on the way? (Tue, 13 Dec, 2011 14:17) from feed Politics as it is too old.
+Skipping article VIDEO: What does going on strike achieve? (Tue, 13 Dec, 2011 14:18) from feed Politics as it is too old.
+Skipping article VIDEO: Leveson Inquiry (Tue, 01 Nov, 2011 10:59) from feed Politics as it is too old.
+Skipping article Europe adds by-election interest (Wed, 14 Dec, 2011 01:22) from feed Politics as it is too old.
+Skipping article The tensions within the coalition (Tue, 13 Dec, 2011 13:56) from feed Politics as it is too old.
+Skipping article In quotes: Reaction to EU veto (Tue, 13 Dec, 2011 17:38) from feed Politics as it is too old.
+1% Fetching feed Science/Environment...
+Skipping article Higgs 'may have been identified' (Tue, 13 Dec, 2011 17:20) from feed Science/Environment as it is too old.
+Skipping article Canada under fire over Kyoto exit (Tue, 13 Dec, 2011 18:40) from feed Science/Environment as it is too old.
+Skipping article Fish uses fins to walk and bound (Tue, 13 Dec, 2011 18:33) from feed Science/Environment as it is too old.
+Skipping article Microsoft founder's space venture (Wed, 14 Dec, 2011 00:51) from feed Science/Environment as it is too old.
+Skipping article World's 'smallest steam engine' (Tue, 13 Dec, 2011 18:05) from feed Science/Environment as it is too old.
+Skipping article Crime age might be 'set too low' (Tue, 13 Dec, 2011 02:35) from feed Science/Environment as it is too old.
+Skipping article BBC denies misleading Planet fans (Mon, 12 Dec, 2011 16:27) from feed Science/Environment as it is too old.
+Skipping article Skywatchers enjoy lunar eclipse (Sat, 10 Dec, 2011 17:22) from feed Science/Environment as it is too old.
+Skipping article Climate talks end with late deal (Sun, 11 Dec, 2011 07:10) from feed Science/Environment as it is too old.
+Skipping article Scientists make new Mekong finds (Mon, 12 Dec, 2011 14:14) from feed Science/Environment as it is too old.
+Skipping article Japan keeps green car tax breaks (Mon, 12 Dec, 2011 03:27) from feed Science/Environment as it is too old.
+Skipping article Trillion frames per second camera (Tue, 13 Dec, 2011 17:54) from feed Science/Environment as it is too old.
+Skipping article Big birds' 'bloodless erections' (Mon, 12 Dec, 2011 09:16) from feed Science/Environment as it is too old.
+Skipping article Mars water clue 'most clear yet' (Thu, 08 Dec, 2011 13:06) from feed Science/Environment as it is too old.
+Skipping article New Mars rover to move 'unaided' (Thu, 08 Dec, 2011 17:17) from feed Science/Environment as it is too old.
+Skipping article UK to build atmospheric sentinel (Thu, 08 Dec, 2011 07:48) from feed Science/Environment as it is too old.
+Skipping article Rare gene links vitamin D and MS (Thu, 08 Dec, 2011 13:15) from feed Science/Environment as it is too old.
+Skipping article Oceans' deepest depth re-measured (Wed, 07 Dec, 2011 09:49) from feed Science/Environment as it is too old.
+Skipping article Astronomers confirm 'Earth twin' (Mon, 05 Dec, 2011 17:50) from feed Science/Environment as it is too old.
+Skipping article Polar bear 'cannibalism' pictured (Mon, 12 Dec, 2011 03:53) from feed Science/Environment as it is too old.
+Skipping article How penguins 'time' a deep dive (Thu, 08 Dec, 2011 07:41) from feed Science/Environment as it is too old.
+Skipping article French Alpine glaciers in retreat (Wed, 07 Dec, 2011 01:24) from feed Science/Environment as it is too old.
+Skipping article Brazil eases Amazon forest rules (Wed, 07 Dec, 2011 10:26) from feed Science/Environment as it is too old.
+Skipping article Tsunami fund 'used for whaling' (Wed, 07 Dec, 2011 12:39) from feed Science/Environment as it is too old.
+Skipping article UN climate talks 'ambition' call (Tue, 06 Dec, 2011 15:37) from feed Science/Environment as it is too old.
+Skipping article Female splits up 'gay' penguins (Tue, 13 Dec, 2011 03:55) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Do birds have regional accents? (Tue, 13 Dec, 2011 07:12) from feed Science/Environment as it is too old.
+Skipping article Butterfly numbers still falling (Wed, 07 Dec, 2011 02:32) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Higgs 'may have been identified' (Tue, 13 Dec, 2011 18:47) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Dinosaur bone unearthed in garden (Tue, 13 Dec, 2011 18:23) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Isaac Newton's work goes digital (Tue, 13 Dec, 2011 11:34) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Most expensive science gamble ever? (Tue, 13 Dec, 2011 09:48) from feed Science/Environment as it is too old.
+Skipping article AUDIO: Is the cost of Cern justified? (Tue, 13 Dec, 2011 09:54) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Panda on parade at Edinburgh zoo (Mon, 12 Dec, 2011 13:52) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Sounds of the future for green cars (Sat, 10 Dec, 2011 16:51) from feed Science/Environment as it is too old.
+Skipping article VIDEO: Canada withdraws from Kyoto pact (Tue, 13 Dec, 2011 04:54) from feed Science/Environment as it is too old.
+Skipping article Iter: The world's most expensive scientific gamble? (Wed, 14 Dec, 2011 00:11) from feed Science/Environment as it is too old.
+Skipping article Analysis: Higgs result offers glimpse of the future (Tue, 13 Dec, 2011 17:44) from feed Science/Environment as it is too old.
+Skipping article Defacing Madagascar's tortoises (Tue, 13 Dec, 2011 01:17) from feed Science/Environment as it is too old.
+Skipping article Durban: Winners and losers (Sun, 11 Dec, 2011 13:32) from feed Science/Environment as it is too old.
+Skipping article Diary from the deep: part 4 (Fri, 09 Dec, 2011 10:33) from feed Science/Environment as it is too old.
+1% Fetching feed Technology...
+Skipping article Apple papers are sold for $1.6m (Tue, 13 Dec, 2011 21:43) from feed Technology as it is too old.
+Skipping article Trillion frames per second camera (Tue, 13 Dec, 2011 17:54) from feed Technology as it is too old.
+Skipping article Street View reveals tsunami Japan (Tue, 13 Dec, 2011 12:02) from feed Technology as it is too old.
+Skipping article Facebook acts to prevent suicides (Tue, 13 Dec, 2011 19:41) from feed Technology as it is too old.
+Skipping article Strict ban on car-phone use urged (Wed, 14 Dec, 2011 00:02) from feed Technology as it is too old.
+Skipping article Microsoft founder's space venture (Wed, 14 Dec, 2011 00:51) from feed Technology as it is too old.
+Skipping article Music service Rara.com launches (Tue, 13 Dec, 2011 15:46) from feed Technology as it is too old.
+Skipping article Hackers 'hit city services' in US (Tue, 13 Dec, 2011 12:58) from feed Technology as it is too old.
+Skipping article Pressure for net neutrality rules (Tue, 13 Dec, 2011 16:20) from feed Technology as it is too old.
+Skipping article EU delays Google Motorola merger (Tue, 13 Dec, 2011 13:18) from feed Technology as it is too old.
+Skipping article BBC iPlayer app streams on 3G (Mon, 12 Dec, 2011 15:49) from feed Technology as it is too old.
+Skipping article Isaac Newton papers made public (Mon, 12 Dec, 2011 16:23) from feed Technology as it is too old.
+Skipping article YouTube launches schools service (Mon, 12 Dec, 2011 17:31) from feed Technology as it is too old.
+Skipping article World's 'smallest steam engine' (Tue, 13 Dec, 2011 18:05) from feed Technology as it is too old.
+Skipping article Skyrim award despite PS3 problems (Mon, 12 Dec, 2011 13:15) from feed Technology as it is too old.
+Skipping article Robot wars ‘still a long way off’ (Tue, 04 Oct, 2011 09:46) from feed Technology as it is too old.
+Skipping article Is it worth reinventing the wheel? (Tue, 18 Oct, 2011 03:00) from feed Technology as it is too old.
+Skipping article VIDEO: Isaac Newton's work goes digital (Tue, 13 Dec, 2011 11:34) from feed Technology as it is too old.
+Skipping article VIDEO: Snooping sat-navs? (Thu, 08 Dec, 2011 19:14) from feed Technology as it is too old.
+Skipping article VIDEO: Sounds of the future for green cars (Sat, 10 Dec, 2011 16:51) from feed Technology as it is too old.
+Skipping article VIDEO: Design challenge helps injured soldiers (Sat, 10 Dec, 2011 11:21) from feed Technology as it is too old.
+Skipping article VIDEO: Webscape: Build your own games (Fri, 09 Dec, 2011 09:19) from feed Technology as it is too old.
+Skipping article VIDEO: Facebook's loophole and other tech news (Fri, 09 Dec, 2011 10:16) from feed Technology as it is too old.
+Skipping article VIDEO: Silicon Fen shows off its wares (Fri, 09 Dec, 2011 06:29) from feed Technology as it is too old.
+Skipping article Golden opportunity for old mines (Tue, 13 Dec, 2011 00:11) from feed Technology as it is too old.
+Skipping article VIDEO: Tech war: New York v San Francisco (Tue, 13 Dec, 2011 03:21) from feed Technology as it is too old.
+Skipping article We need to talk about our privacy (Mon, 12 Dec, 2011 08:25) from feed Technology as it is too old.
+Skipping article TV waves 'make for better broadband' (Sat, 10 Dec, 2011 02:07) from feed Technology as it is too old.
+Skipping article Silicon Fen shows off its wares (Fri, 09 Dec, 2011 18:01) from feed Technology as it is too old.
+Skipping article Will drive-in cinemas survive the digital age? (Fri, 09 Dec, 2011 11:51) from feed Technology as it is too old.
+Skipping article Yossi Vardi, Israel's hi-tech guru (Thu, 08 Dec, 2011 00:17) from feed Technology as it is too old.
+1% Fetching feed Magazine...
+Skipping article Could US-style local TV work in the UK? (Tue, 13 Dec, 2011 13:56) from feed Magazine as it is too old.
+Skipping article 7 questions on landmarks for sale (Wed, 14 Dec, 2011 01:16) from feed Magazine as it is too old.
+Skipping article How useful is a captured stealth drone? (Wed, 14 Dec, 2011 00:26) from feed Magazine as it is too old.
+Skipping article An Italian's view on British winter clothes (Tue, 13 Dec, 2011 09:45) from feed Magazine as it is too old.
+Skipping article The singer who finds freedom from Tourette's (Tue, 13 Dec, 2011 02:00) from feed Magazine as it is too old.
+Skipping article The precarious path of talent show fame (Mon, 12 Dec, 2011 12:44) from feed Magazine as it is too old.
+Skipping article How common is Nazi fancy dress? (Mon, 12 Dec, 2011 14:23) from feed Magazine as it is too old.
+Skipping article Beware of experts (Fri, 09 Dec, 2011 15:45) from feed Magazine as it is too old.
+Skipping article What are the chances of six double-yolkers? (Sat, 10 Dec, 2011 00:55) from feed Magazine as it is too old.
+Skipping article How political is What A Wonderful World? (Sat, 10 Dec, 2011 09:02) from feed Magazine as it is too old.
+Skipping article How do you fly a panda 5,000 miles? (Mon, 05 Dec, 2011 01:00) from feed Magazine as it is too old.
+Skipping article How do you survive a month adrift at sea? (Wed, 30 Nov, 2011 09:27) from feed Magazine as it is too old.
+Skipping article How do you assess a killer's mental health? (Tue, 29 Nov, 2011 14:54) from feed Magazine as it is too old.
+Skipping article How dangerous is tear gas? (Fri, 25 Nov, 2011 11:18) from feed Magazine as it is too old.
+Skipping article Why does every person need 200kg of steel a year? (Thu, 24 Nov, 2011 00:41) from feed Magazine as it is too old.
+Skipping article Suits versus beards (Fri, 11 Nov, 2011 11:17) from feed Magazine as it is too old.
+Skipping article What bananas tell us about radiation (Thu, 13 Oct, 2011 11:30) from feed Magazine as it is too old.
+Skipping article The doom and gloom calculator (Thu, 01 Sep, 2011 12:36) from feed Magazine as it is too old.
+1% Fetching feed Entertainment/Arts...
+Skipping article Gormley unveils 'empty' sculpture (Tue, 13 Dec, 2011 14:52) from feed Entertainment/Arts as it is too old.
+Skipping article Ofcom earmarks local TV locations (Tue, 13 Dec, 2011 12:54) from feed Entertainment/Arts as it is too old.
+Skipping article 'Lost' David Bowie footage found (Tue, 13 Dec, 2011 15:22) from feed Entertainment/Arts as it is too old.
+Skipping article Puss In Boots tops UK film chart (Tue, 13 Dec, 2011 13:31) from feed Entertainment/Arts as it is too old.
+Skipping article Steinway Hall honours Billy Joel (Tue, 13 Dec, 2011 10:36) from feed Entertainment/Arts as it is too old.
+Skipping article Citizen Kane Oscar up for auction (Tue, 13 Dec, 2011 11:32) from feed Entertainment/Arts as it is too old.
+Skipping article Scorsese to receive Riviera award (Tue, 13 Dec, 2011 12:09) from feed Entertainment/Arts as it is too old.
+Skipping article X Factor final drops 4m viewers (Mon, 12 Dec, 2011 12:00) from feed Entertainment/Arts as it is too old.
+Skipping article BBC denies misleading Planet fans (Mon, 12 Dec, 2011 16:27) from feed Entertainment/Arts as it is too old.
+Skipping article 'Banksy' work found in car park (Tue, 13 Dec, 2011 19:54) from feed Entertainment/Arts as it is too old.
+Skipping article Skelton plans south pole mission (Tue, 13 Dec, 2011 11:36) from feed Entertainment/Arts as it is too old.
+Skipping article Downton actor joins Booker panel (Mon, 12 Dec, 2011 17:41) from feed Entertainment/Arts as it is too old.
+Skipping article Monet pastel returns to the Savoy (Mon, 12 Dec, 2011 15:19) from feed Entertainment/Arts as it is too old.
+Skipping article Riots play transfers to Tottenham (Mon, 12 Dec, 2011 16:16) from feed Entertainment/Arts as it is too old.
+Skipping article US box office hits three-year low (Mon, 12 Dec, 2011 10:50) from feed Entertainment/Arts as it is too old.
+Skipping article Bale defends China massacre film (Mon, 12 Dec, 2011 05:44) from feed Entertainment/Arts as it is too old.
+Skipping article Fassbender wins LA Critics prize (Mon, 12 Dec, 2011 08:38) from feed Entertainment/Arts as it is too old.
+Skipping article Amy Winehouse tops UK album chart (Mon, 12 Dec, 2011 10:22) from feed Entertainment/Arts as it is too old.
+Skipping article Music executive shot dead in LA (Tue, 13 Dec, 2011 10:01) from feed Entertainment/Arts as it is too old.
+Skipping article LMFAO song top track on iTunes (Fri, 09 Dec, 2011 10:50) from feed Entertainment/Arts as it is too old.
+Skipping article BBC radio hits billion downloads (Mon, 12 Dec, 2011 16:05) from feed Entertainment/Arts as it is too old.
+Skipping article Missing Doctor Who episodes found (Mon, 12 Dec, 2011 09:51) from feed Entertainment/Arts as it is too old.
+Skipping article Miranda leads comedy awards nods (Mon, 12 Dec, 2011 02:19) from feed Entertainment/Arts as it is too old.
+Skipping article VIDEO: I was drinking '10 bottles of wine a day' (Tue, 13 Dec, 2011 17:52) from feed Entertainment/Arts as it is too old.
+Skipping article VIDEO: Tom Cruise on doing his own stunts (Tue, 13 Dec, 2011 21:59) from feed Entertainment/Arts as it is too old.
+Skipping article VIDEO: Daniel Craig's new film and more news (Tue, 13 Dec, 2011 22:08) from feed Entertainment/Arts as it is too old.
+Skipping article VIDEO: Simon Pegg talks 'Ghost Protocol' (Tue, 13 Dec, 2011 11:32) from feed Entertainment/Arts as it is too old.
+Skipping article Sherlock Holmes and the sequel struggle (Wed, 14 Dec, 2011 01:02) from feed Entertainment/Arts as it is too old.
+Skipping article Could US-style local TV work in the UK? (Tue, 13 Dec, 2011 13:56) from feed Entertainment/Arts as it is too old.
+Skipping article VIDEO: Behind the scenes of Noises Off (Tue, 13 Dec, 2011 02:38) from feed Entertainment/Arts as it is too old.
+Skipping article X Factor: How the finalists fared (Mon, 12 Dec, 2011 07:10) from feed Entertainment/Arts as it is too old.
+Skipping article What is it about sensitive boys with guitars? (Mon, 12 Dec, 2011 02:26) from feed Entertainment/Arts as it is too old.
+Skipping article The precarious path of talent show fame (Mon, 12 Dec, 2011 12:44) from feed Entertainment/Arts as it is too old.
+Skipping article A winning design? (Fri, 09 Dec, 2011 12:38) from feed Entertainment/Arts as it is too old.
+1% Fetching feed Business...
+Skipping article Scams 'target dementia sufferers' (Wed, 14 Dec, 2011 00:08) from feed Business as it is too old.
+Skipping article Hong Kong 'most developed' market (Wed, 14 Dec, 2011 03:20) from feed Business as it is too old.
+Skipping article HK jeweller's launch disappoints (Wed, 14 Dec, 2011 02:14) from feed Business as it is too old.
+Skipping article Apple papers are sold for $1.6m (Tue, 13 Dec, 2011 21:43) from feed Business as it is too old.
+Skipping article How will the euro crisis end? (Fri, 09 Dec, 2011 17:11) from feed Business as it is too old.
+Skipping article What is Germany's vision for Europe? (Thu, 08 Dec, 2011 00:30) from feed Business as it is too old.
+Skipping article Eurozone crisis: The possible resolutions (Fri, 04 Nov, 2011 16:22) from feed Business as it is too old.
+Skipping article Eurozone crisis: European voices (Thu, 08 Dec, 2011 00:07) from feed Business as it is too old.
+Skipping article EU nations and the euro: What they want (Thu, 08 Dec, 2011 00:06) from feed Business as it is too old.
+Skipping article Eurozone in crisis graphics - GDP (Thu, 12 May, 2011 07:36) from feed Business as it is too old.
+Skipping article Europe's four big dilemmas (Thu, 27 Oct, 2011 10:04) from feed Business as it is too old.
+Skipping article VIDEO: Why is Italy in trouble? (Fri, 04 Nov, 2011 16:11) from feed Business as it is too old.
+Skipping article Music service Rara.com launches (Tue, 13 Dec, 2011 15:46) from feed Business as it is too old.
+Skipping article Mourinho hopes to be Special One (Mon, 12 Dec, 2011 10:12) from feed Business as it is too old.
+Skipping article Payday lenders face OFT penalties (Tue, 13 Dec, 2011 16:28) from feed Business as it is too old.
+Skipping article Christmas tree prices spiralling (Tue, 13 Dec, 2011 17:27) from feed Business as it is too old.
+Skipping article Economic outlook 'key to housing' (Tue, 13 Dec, 2011 10:41) from feed Business as it is too old.
+Skipping article Fed continues stimulus measures (Tue, 13 Dec, 2011 19:37) from feed Business as it is too old.
+Skipping article US retail sales growth slows down (Tue, 13 Dec, 2011 14:45) from feed Business as it is too old.
+Skipping article EU delays Google Motorola merger (Tue, 13 Dec, 2011 13:18) from feed Business as it is too old.
+Skipping article US brings Siemens bribery charges (Tue, 13 Dec, 2011 17:27) from feed Business as it is too old.
+Skipping article Contracts signed for new stadium (Tue, 13 Dec, 2011 08:39) from feed Business as it is too old.
+Skipping article Fan group seals Wrexham takeover (Mon, 12 Dec, 2011 16:53) from feed Business as it is too old.
+Skipping article Hearts players prepare to up ante (Mon, 12 Dec, 2011 21:24) from feed Business as it is too old.
+Skipping article VIDEO: Cameron backs High Street revival (Tue, 13 Dec, 2011 21:14) from feed Business as it is too old.
+Skipping article VIDEO: Charities find new ways of fund-raising (Tue, 13 Dec, 2011 13:08) from feed Business as it is too old.
+Skipping article VIDEO: How to get a job in retail (Tue, 13 Dec, 2011 16:55) from feed Business as it is too old.
+Skipping article VIDEO: Breathing life into Brixton market (Tue, 13 Dec, 2011 12:16) from feed Business as it is too old.
+Skipping article VIDEO: Fall in UK inflation rate (Tue, 13 Dec, 2011 14:20) from feed Business as it is too old.
+Skipping article AUDIO: 'There are too many shops' (Tue, 13 Dec, 2011 07:27) from feed Business as it is too old.
+Skipping article German apprenticeships: A model for Europe? (Wed, 14 Dec, 2011 00:03) from feed Business as it is too old.
+Skipping article Future costs of youth unemployment (Wed, 14 Dec, 2011 00:02) from feed Business as it is too old.
+Skipping article Auto-enrolment: Brakes applied to pension reforms (Wed, 14 Dec, 2011 00:06) from feed Business as it is too old.
+Skipping article VIDEO: How to get a job in manufacturing (Tue, 13 Dec, 2011 17:05) from feed Business as it is too old.
+Skipping article Chasing the offshore tax dodgers (Tue, 13 Dec, 2011 00:11) from feed Business as it is too old.
+Skipping article Weaving independence for Moroccan women (Wed, 14 Dec, 2011 00:05) from feed Business as it is too old.
+Skipping article Top economists reveal their graphs of 2011 (Tue, 13 Dec, 2011 06:00) from feed Business as it is too old.
+1% Fetching feed Special Reports...
+Skipping article Crash map: UK road deaths (Fri, 02 Dec, 2011 17:19) from feed Special Reports as it is too old.
+Skipping article Eurozone debt web: Who owes what to whom? (Fri, 18 Nov, 2011 09:20) from feed Special Reports as it is too old.
+Skipping article 7 billion people and you: What's your number? (Wed, 26 Oct, 2011 23:18) from feed Special Reports as it is too old.
+Skipping article A closer look at the St Paul's camp (Tue, 01 Nov, 2011 17:23) from feed Special Reports as it is too old.
+Skipping article Muammar Gaddafi: How he died (Mon, 31 Oct, 2011 11:04) from feed Special Reports as it is too old.
+Skipping article Three steps to build a wind farm (Mon, 15 Aug, 2011 14:42) from feed Special Reports as it is too old.
+Skipping article Former Soviet republics: Winners and losers (Thu, 18 Aug, 2011 16:19) from feed Special Reports as it is too old.
+Skipping article England riots: Maps and timeline (Mon, 15 Aug, 2011 17:11) from feed Special Reports as it is too old.
+Skipping article Space shuttle timeline (Wed, 06 Jul, 2011 17:33) from feed Special Reports as it is too old.
+Skipping article 7 July timeline: The story of the attacks (Thu, 05 May, 2011 18:13) from feed Special Reports as it is too old.
+Skipping article Air France crash: The long hunt for answers (Wed, 17 Aug, 2011 10:41) from feed Special Reports as it is too old.
+Skipping article Bin Laden's death: How it happened (Tue, 07 Jun, 2011 11:48) from feed Special Reports as it is too old.
+Skipping article Olympic torch timeline (Wed, 18 May, 2011 06:51) from feed Special Reports as it is too old.
+Skipping article Misrata map: City under siege (Thu, 21 Apr, 2011 16:52) from feed Special Reports as it is too old.
+Skipping article Eurozone in crisis graphics: Deficit (Thu, 12 May, 2011 07:37) from feed Special Reports as it is too old.
+1% Fetching feed Also in the News...
+Skipping article Chile tie campaign to beat heat (Wed, 14 Dec, 2011 00:45) from feed Also in the News as it is too old.
+Skipping article Green plastic sheep fool drivers (Mon, 12 Dec, 2011 18:42) from feed Also in the News as it is too old.
+Skipping article Apple papers are sold for $1.6m (Tue, 13 Dec, 2011 21:43) from feed Also in the News as it is too old.
+Skipping article Female splits up 'gay' penguins (Tue, 13 Dec, 2011 03:55) from feed Also in the News as it is too old.
+Skipping article Sheep flock seal makes recovery (Tue, 13 Dec, 2011 10:44) from feed Also in the News as it is too old.
+Skipping article Zimbabwe PM fined cows and sheep (Mon, 12 Dec, 2011 15:04) from feed Also in the News as it is too old.
+Skipping article Norway PM Stoltenberg visits pole (Mon, 12 Dec, 2011 12:27) from feed Also in the News as it is too old.
+Skipping article Amy Winehouse tops UK album chart (Mon, 12 Dec, 2011 10:22) from feed Also in the News as it is too old.
+Skipping article Medvedev Facebook post draws ire (Mon, 12 Dec, 2011 02:58) from feed Also in the News as it is too old.
+Skipping article VIDEO: 'Exmoor Emperor's' head at hotel (Mon, 12 Dec, 2011 20:35) from feed Also in the News as it is too old.
+Skipping article VIDEO: Record interview last 24 hours (Mon, 12 Dec, 2011 17:34) from feed Also in the News as it is too old.
+Skipping article VIDEO: Close-up: Japan's amazing lunchboxes (Sun, 11 Dec, 2011 01:08) from feed Also in the News as it is too old.
+Skipping article VIDEO: Panda on parade at Edinburgh zoo (Mon, 12 Dec, 2011 13:52) from feed Also in the News as it is too old.
+Skipping article VIDEO: Bad hair day - it's Odd Box (Thu, 08 Dec, 2011 23:44) from feed Also in the News as it is too old.
+Skipping article Why are people shy about singing in public? (Fri, 09 Dec, 2011 15:24) from feed Also in the News as it is too old.
+Skipping article How do you reassemble shredded documents? (Tue, 06 Dec, 2011 11:26) from feed Also in the News as it is too old.
+Skipping article Why are so many airline bosses Irish? (Tue, 06 Dec, 2011 00:00) from feed Also in the News as it is too old.
+Skipping article How can mirrors fix phantom limbs? (Mon, 05 Dec, 2011 12:02) from feed Also in the News as it is too old.
+Skipping article Headline news from 1811 (Fri, 02 Dec, 2011 09:51) from feed Also in the News as it is too old.
+Skipping article Why the diner is the ultimate symbol of America (Tue, 29 Nov, 2011 12:06) from feed Also in the News as it is too old.
+Skipping article 10 of your ear stretching stories (Thu, 01 Dec, 2011 10:22) from feed Also in the News as it is too old.
+Skipping article Should monuments be lit at night? (Tue, 29 Nov, 2011 15:12) from feed Also in the News as it is too old.
+1% Fetching feed Click...
+Skipping article TV waves 'make for better broadband' (Sat, 10 Dec, 2011 02:07) from feed Click as it is too old.
+Skipping article Televisions (Fri, 11 Feb, 2011 11:42) from feed Click as it is too old.
+Skipping article Digital cameras (Fri, 04 Feb, 2011 16:08) from feed Click as it is too old.
+Skipping article Laptops (Fri, 28 May, 2010 10:53) from feed Click as it is too old.
+Skipping article Will customers eventually go cold turkey on cash? (Mon, 28 Nov, 2011 15:39) from feed Click as it is too old.
+Skipping article Technology found in the toilet relieves boredom (Thu, 01 Dec, 2011 14:05) from feed Click as it is too old.
+Skipping article Have Japanese brands lost their way? (Mon, 21 Nov, 2011 11:55) from feed Click as it is too old.
+Skipping article Turning malware on the cyber-criminals (Thu, 03 Nov, 2011 11:25) from feed Click as it is too old.
+Skipping article Is it worth reinventing the wheel? (Tue, 18 Oct, 2011 03:00) from feed Click as it is too old.
+Skipping article Robot wars ‘still a long way off’ (Tue, 04 Oct, 2011 09:46) from feed Click as it is too old.
+Skipping article Data users at the end of their tether (Tue, 30 Aug, 2011 11:26) from feed Click as it is too old.
+Skipping article Why spend £1,000 on headphones? (Tue, 16 Aug, 2011 07:16) from feed Click as it is too old.
+Skipping article Are mobile phones safe for children? (Fri, 05 Aug, 2011 23:35) from feed Click as it is too old.
+Skipping article How to create your own aerial map (Fri, 19 Aug, 2011 11:50) from feed Click as it is too old.
+1% Fetching feed Blog: Nick Robinson (Political Editor)...
+Skipping article A show-stealing non performance (Mon, 12 Dec, 2011 18:43) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Explaining Clegg's EU reaction (Mon, 12 Dec, 2011 09:48) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Europe - the coalition shakes (Sun, 11 Dec, 2011 10:56) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Did Europe call Cameron's bluff? (Fri, 09 Dec, 2011 19:10) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Britain uses its veto (Fri, 09 Dec, 2011 07:58) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Will Cameron repeat Major trick? (Thu, 08 Dec, 2011 18:01) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Cameron's EU headache (Thu, 08 Dec, 2011 13:44) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article 'Merkozy' tax piles pressure on PM (Wed, 07 Dec, 2011 18:41) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Cameron and the EPP decision (Wed, 07 Dec, 2011 11:53) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Your Money and How They Spend It (Pt2) (Wed, 30 Nov, 2011 15:37) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article The Autumn Statement (Tue, 29 Nov, 2011 14:15) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Osborne to say economy off course (Mon, 28 Nov, 2011 18:10) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Spending boost for infrastructure projects (Mon, 28 Nov, 2011 04:01) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Switching spending to capital projects (Thu, 24 Nov, 2011 21:40) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Your money and how they spend it (Wed, 23 Nov, 2011 01:13) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article Economy - 'We are well behind' (Tue, 22 Nov, 2011 15:30) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article How they spend your money (Sat, 19 Nov, 2011 07:55) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article What happens when David meets Angela? (Fri, 18 Nov, 2011 10:08) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+Skipping article A four-point plan for the economy (Wed, 16 Nov, 2011 18:29) from feed Blog: Nick Robinson (Political Editor) as it is too old.
+1% Fetching feed Blog: Robert Peston (Business Editor)...
+Skipping article Murdoch's plea of ignorance takes a knock (Tue, 13 Dec, 2011 18:16) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article The safety of banks wasn't on FSA agenda (Mon, 12 Dec, 2011 14:41) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article FSA denies negligence over RBS (Mon, 12 Dec, 2011 07:18) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Big business deeply troubled by Cameron's veto (Sun, 11 Dec, 2011 17:24) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Has the eurozone flunked the market's test again? (Fri, 09 Dec, 2011 15:45) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Lloyds' exhausted boss wants to return (Thu, 08 Dec, 2011 13:16) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article How German taxpayers prop up Italy (Thu, 08 Dec, 2011 10:55) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Will bank bonuses be squished? (Wed, 07 Dec, 2011 08:47) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article S&P’s logical but tactless eurozone warning (Mon, 05 Dec, 2011 23:40) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Has Merkozy taken Italy out of the danger zone? (Mon, 05 Dec, 2011 19:46) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Would euro solution be costly for Treasury? (Mon, 05 Dec, 2011 08:22) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article What Clegg meant by 'getting tough' on bosses pay (Sun, 04 Dec, 2011 17:20) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article China: A warning and an opportunity (Thu, 01 Dec, 2011 08:52) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Central banks try to stop Credit Crunch ll (Wed, 30 Nov, 2011 16:31) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Cheer up: It could be much worse (Wed, 30 Nov, 2011 08:40) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Italy's moment of truth (Tue, 29 Nov, 2011 17:04) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Bankers hit by third levy increase (Tue, 29 Nov, 2011 08:43) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Chancellor to boost retail? (Mon, 28 Nov, 2011 19:31) from feed Blog: Robert Peston (Business Editor) as it is too old.
+Skipping article Are markets betting on IMF bailout of Italy? (Mon, 28 Nov, 2011 09:00) from feed Blog: Robert Peston (Business Editor) as it is too old.
+1% Trying to download cover...
+1% Generating masthead...
+Synthesizing mastheadImage
+Downloading
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-16176193?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-16174233?print=true
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/health-16147731?print=true
+Downloading
+DownloadingDownloadingFetching Downloading
+Fetching http://www.bbc.co.uk/news/business-16175309?print=true
+
+Fetching http://www.bbc.co.uk/news/education-16160610?print=true
+Downloading
+http://www.bbc.co.uk/news/business-16178556?print=true
+Fetching http://www.bbc.co.uk/news/business-16173578?print=true
+Fetching http://www.bbc.co.uk/news/uk-16176875?print=true
+Downloading
+
+FetchingFetching http://www.bbc.co.uk/news/world-europe-16172662?print=true
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Fetching http://www.bbc.co.uk/news/uk-england-london-16174789?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16177657?print=true
+ http://www.bbc.co.uk/news/uk-politics-16175167?print=true
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/health-16175387?print=true
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/education-16157522?print=true
+Fetching http://www.bbc.co.uk/news/business-16175022?print=true
+Downloading
+Downloading
+FetchingDownloading
+Downloading
+ Fetching http://www.bbc.co.uk/news/uk-16174233?print=true
+http://www.bbc.co.uk/news/health-16178226?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-16175509?print=true
+Downloading
+Downloading
+FetchingFetching http://www.bbc.co.uk/news/business-16173578?print=true
+Fetching http://www.bbc.co.uk/news/business-16178556?print=true
+ Fetching http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+http://www.bbc.co.uk/news/technology-16177013?print=true
+DownloadingDownloading
+
+DownloadingFetching http://www.bbc.co.uk/news/uk-england-tyne-16182025?print=true
+Downloading
+
+Fetching http://www.bbc.co.uk/news/uk-politics-16175509?print=trueDownloading
+Fetching http://www.bbc.co.uk/news/uk-england-bristol-16174368?print=true
+
+Fetching http://www.bbc.co.uk/news/business-16175309?print=true
+Fetching http://www.bbc.co.uk/news/uk-politics-16176193?print=trueDownloading
+
+Fetching http://www.bbc.co.uk/news/business-16175022?print=true
+1% Starting download [30 thread(s)]...
+Fetching http://www.bbc.co.uk/news/health-16147731?print=true
+Could not fetch link http://www.bbc.co.uk/news/health-16147731?print=true
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 416, in process_links
+    dsrc = self.fetch_url(iurl)
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 210, in fetch_url
+    with closing(open_func(url, timeout=self.timeout)) as f:
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 205, in open_novisit
+    return self._mech_open(url, data, visit=False, timeout=timeout)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 236, in _mech_open
+    response = UserAgentBase.open(self, request, data)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_opener.py", line 202, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 315, in http_response
+    self.head_parser_class())
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 285, in parse_head
+    parser.feed(data)
+  File "/usr/lib/python2.7/sgmllib.py", line 104, in feed
+    self.goahead(0)
+  File "/usr/lib/python2.7/sgmllib.py", line 143, in goahead
+    k = self.parse_endtag(i)
+  File "/usr/lib/python2.7/sgmllib.py", line 316, in parse_endtag
+    j = match.start(0)
+  File "/usr/lib/calibre/calibre/web/feeds/feedparser.py", line 184, in start
+    return self.match.end(n)
+AttributeError: 'NoneType' object has no attribute 'end'
+
+http://www.bbc.co.uk/news/health-16147731?print=true saved to 
+Downloading
+Failed to download article: Many diabetes deaths 'avoidable' from http://www.bbc.co.uk/go/rss/int/news/-/news/health-16147731
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+
+
+1% Article download failed: u"Many diabetes deaths 'avoidable'"
+Fetching http://www.bbc.co.uk/news/uk-england-london-16174789?print=true
+Could not fetch link http://www.bbc.co.uk/news/uk-politics-16175509?print=true
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 416, in process_links
+    dsrc = self.fetch_url(iurl)
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 210, in fetch_url
+    with closing(open_func(url, timeout=self.timeout)) as f:
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 205, in open_novisit
+    return self._mech_open(url, data, visit=False, timeout=timeout)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 236, in _mech_open
+    response = UserAgentBase.open(self, request, data)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_opener.py", line 202, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 315, in http_response
+    self.head_parser_class())
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 285, in parse_head
+    parser.feed(data)
+  File "/usr/lib/python2.7/sgmllib.py", line 104, in feed
+    self.goahead(0)
+  File "/usr/lib/python2.7/sgmllib.py", line 138, in goahead
+    k = self.parse_starttag(i)
+  File "/usr/lib/python2.7/sgmllib.py", line 264, in parse_starttag
+    j = match.start(0)
+  File "/usr/lib/calibre/calibre/web/feeds/feedparser.py", line 184, in start
+    return self.match.end(n)
+AttributeError: 'NoneType' object has no attribute 'end'
+
+http://www.bbc.co.uk/news/uk-politics-16175509?print=true saved to 
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-wales-16173948?print=true
+Failed to download article: Peers ordered to repay expenses from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175509
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+
+
+1% Article download failed: u'Peers ordered to repay expenses'
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/56632000/jpg/_56632611_morrissons_04.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315889_dawnwestminster.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315056_h4600366-child_development-spl.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16178556?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16175509?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/health-16175387?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-london-16174789?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/56940000/jpg/_56940943_queen_getty_464.jpg
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16178556?print=true
+Processing images...
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-16174233?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/54696000/jpg/_54696611_010958609-1.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316231_013524877-1.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57317000/jpg/_57317105_m3400311-geriatric_care-spl.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57295000/jpg/_57295459_57295458.jpg
+Processing images...
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57299000/jpg/_57299695_sabres.jpg
+Fetching http://news.bbcimg.co.uk/media/images/51642000/jpg/_51642877_ness_awan_composite.jpg
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16176193?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175022?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315647_57315646.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-16174233?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16176193?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-london-16174789?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/health-16178226?print=true
+Fetching Fetchinghttp://news.bbcimg.co.uk/media/images/57281000/jpg/_57281346_diabetes.jpg 
+http://news.bbcimg.co.uk/media/images/51083000/jpg/_51083861_moat304.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/education-16157522?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315644_9.jpg
+http://www.bbc.co.uk/news/business-16178556?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_3/index.xhtml
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/education-16160610?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-england-16174678?print=true
+Downloaded article: Morrisons unveils 7,000 new jobs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16178556
+1% Article downloaded: u'Morrisons unveils 7,000 new jobs'
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57301000/jpg/_57301952_liz.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/health-16147731?print=true
+http://www.bbc.co.uk/news/uk-england-london-16174789?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_6/index.xhtml
+Downloading
+Recursion limit reached. Skipping links in Fetching http://www.bbc.co.uk/news/uk-england-merseyside-16174046?print=true
+http://www.bbc.co.uk/news/uk-england-tyne-16182025?print=true
+Downloaded article: Tube staff back Boxing Day strikeRecursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175022?print=true
+ from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-london-16174789
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+2% Article downloaded: u'Tube staff back Boxing Day strike'
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316067_013524895-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/50257000/jpg/_50257054_bridge1.jpg
+http://www.bbc.co.uk/news/health-16175387?print=true Processing images...
+saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_15/index.xhtml
+Downloading
+FetchingDownloaded article: Rise in child obesity recorded from http://www.bbc.co.uk/go/rss/int/news/-/news/health-16175387
+2% Article downloaded: u'Rise in child obesity recorded'
+ http://www.bbc.co.uk/news/uk-england-cambridgeshire-16174783?print=true
+http://www.bbc.co.uk/news/uk-politics-16175509?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_14/index.xhtml
+Downloading
+Processing images...
+Downloaded article: Peers ordered to repay expenses Fetching http://www.bbc.co.uk/news/technology-16174745?print=true
+from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175509
+2% Article downloaded: u'Peers ordered to repay expenses'
+Recursion limit reached. Skipping links inFetching http://news.bbcimg.co.uk/media/images/55836000/jpg/_55836625_012833183-2.jpg
+ http://www.bbc.co.uk/news/uk-16176875?print=true
+http://www.bbc.co.uk/news/business-16178556?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_3/index.xhtml
+Downloaded article: Morrisons unveils 7,000 new jobs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16178556
+3% Article downloaded: u'Morrisons unveils 7,000 new jobs'
+Downloading
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-wales-16173948?print=true
+Fetching http://www.bbc.co.uk/news/uk-england-hampshire-16164191?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-bristol-16174368?print=true
+http://www.bbc.co.uk/news/uk-16174233?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_1/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+Downloaded article: Diamond Jubilee plan is unveiled from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-16174233
+3% Article downloaded: u'Diamond Jubilee plan is unveiled'
+Fetching http://www.bbc.co.uk/news/business/market_data/chart?chart_primary_ticker=LSE:SGP&chart_time_period=12_month&canvas_colour=000000&primary_chart_colour=CC0000&use_transparency=0&plot_colour=ffffff&cp_line_colour=1F4F82&margin_left=35&margin_bottom=20&margin_right=20&time_24hr=1&tiny_chart=1&tiny_month_view=1&logo_strength=light&y_axis_left=1&x_axis_plain=1&cp_line=1&cp_line_style=dotline&charting_freq=1_minute&co_dimension^width=271&co_dimension^height=170&small_chart_x_label_format=1&date_label_spacing=30
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57317000/jpg/_57317912_108747246.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57313000/jpg/_57313714_007073517-1.jpg
+http://www.bbc.co.uk/news/uk-england-london-16174789?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_10/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-northern-ireland-16179921?print=true
+Downloaded article: Tube staff back Boxing Day strike from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-london-16174789
+3% Article downloaded: u'Tube staff back Boxing Day strike'
+http://www.bbc.co.uk/news/business-16175022?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_13/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-northern-ireland-16173553?print=true
+http://www.bbc.co.uk/news/uk-16174233?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_1/index.xhtml
+Downloaded article: OFT to study car insurance costs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175022
+4% Article downloaded: u'OFT to study car insurance costs'
+Downloading
+Downloaded article: Diamond Jubilee plan is unveiledFetching from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-16174233
+ 4% Article downloaded: u'Diamond Jubilee plan is unveiled'
+http://www.bbc.co.uk/news/world-europe-16172662?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16177657?print=true
+http://www.bbc.co.uk/news/uk-politics-16176193?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_8/index.xhtml
+Downloading
+Fetching http://news.bbcimg.co.uk/media/images/57319000/jpg/_57319302_57319300.jpg
+Downloaded article: PM 'must get better deal for UK' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16176193
+4% Article downloaded: u"PM 'must get better deal for UK'"
+Fetching http://www.bbc.co.uk/news/world-middle-east-16172886?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16175167?print=true
+http://www.bbc.co.uk/news/uk-england-tyne-16182025?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_6/index.xhtml
+Downloading
+Downloaded article: Moat accomplice loses appeal bid from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-tyne-16182025
+5% Article downloaded: u'Moat accomplice loses appeal bid'
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+http://www.bbc.co.uk/news/uk-politics-16176193?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_5/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-europe-16175877?print=true
+Downloaded article: PM 'must get better deal for UK' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16176193
+5% Article downloaded: u"PM 'must get better deal for UK'"
+http://www.bbc.co.uk/news/education-16157522?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_17/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-asia-china-16173768?print=true
+Downloaded article: Students 'turn to prostitution' from http://www.bbc.co.uk/go/rss/int/news/-/news/education-16157522
+5% Article downloaded: u"Students 'turn to prostitution'"
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/technology-16177013?print=true
+http://www.bbc.co.uk/news/education-16160610?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_10/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-middle-east-16172151?print=true
+Downloaded article: Free school £21m private firm bid from http://www.bbc.co.uk/go/rss/int/news/-/news/education-16160610
+http://www.bbc.co.uk/news/business-16175022?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_5/index.xhtml
+http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true saved to 6% Article downloaded: u'Free school \xa321m private firm bid'
+http://www.bbc.co.uk/news/health-16178226?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_16/index.xhtml
+/tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_11/index.xhtml
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/world-middle-east-16176316?print=true
+Fetching http://www.bbc.co.uk/news/world-asia-india-16172942?print=true
+Downloading
+Downloaded article: OFT to study car insurance costs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175022
+6% Article downloaded: u'OFT to study car insurance costs'Fetching http://www.bbc.co.uk/news/world-asia-16173888?print=true
+
+Downloaded article: Elderly care reform funding fears from http://www.bbc.co.uk/go/rss/int/news/-/news/health-16178226
+6% Article downloaded: u'Elderly care reform funding fears'
+Downloaded article: Taylor jewellery sells for $116m from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16161592
+7% Article downloaded: u'Taylor jewellery sells for $116m'
+http://www.bbc.co.uk/news/health-16147731?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_9/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-asia-16173009?print=true
+Downloaded article: Many diabetes deaths 'avoidable' from http://www.bbc.co.uk/go/rss/int/news/-/news/health-16147731
+7% Article downloaded: u"Many diabetes deaths 'avoidable'"
+http://www.bbc.co.uk/news/uk-wales-16173948?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_11/index.xhtml
+Downloadinghttp://www.bbc.co.uk/news/entertainment-arts-16175033?print=true saved to 
+Fetching/tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_19/index.xhtml
+ Downloading
+http://www.bbc.co.uk/news/world-europe-16173847?print=true
+Fetching http://www.bbc.co.uk/news/business-16173885?print=true
+Downloaded article: Cancer ops delayed by cable theft from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-16173948
+7% Article downloaded: u'Cancer ops delayed by cable theft'
+Downloaded article: Tracey Emin to become a professor from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16175033
+8% Article downloaded: u'Tracey Emin to become a professor'
+http://www.bbc.co.uk/news/uk-16176875?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_4/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-asia-16153905?print=true
+Downloaded article: Crone denies 'cover-up culture' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-16176875
+8% Article downloaded: u"Crone denies 'cover-up culture'"
+http://www.bbc.co.uk/news/uk-england-bristol-16174368?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_7/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16181054?print=true
+Downloaded article: Transport schemes get £850m boost from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-bristol-16174368
+8% Article downloaded: u'Transport schemes get \xa3850m boost'
+Processing images...
+Processing images...
+Fetching http://www.bbc.co.uk/news/business/market_data/chart?chart_primary_ticker=LSE:TCG&chart_time_period=12_month&canvas_colour=000000&primary_chart_colour=CC0000&use_transparency=0&plot_colour=ffffff&cp_line_colour=1F4F82&margin_left=35&margin_bottom=20&margin_right=20&time_24hr=1&tiny_chart=1&tiny_month_view=1&logo_strength=light&y_axis_left=1&x_axis_plain=1&cp_line=1&cp_line_style=dotline&charting_freq=1_minute&co_dimension^width=271&co_dimension^height=170&small_chart_x_label_format=1&date_label_spacing=30
+Fetching http://www.bbc.co.uk/news/business/market_data/chart?chart_primary_ticker=LSE:TCG&chart_time_period=12_month&canvas_colour=000000&primary_chart_colour=CC0000&use_transparency=0&plot_colour=ffffff&cp_line_colour=1F4F82&margin_left=35&margin_bottom=20&margin_right=20&time_24hr=1&tiny_chart=1&tiny_month_view=1&logo_strength=light&y_axis_left=1&x_axis_plain=1&cp_line=1&cp_line_style=dotline&charting_freq=1_minute&co_dimension^width=271&co_dimension^height=170&small_chart_x_label_format=1&date_label_spacing=30
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173578?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173578?print=true
+http://www.bbc.co.uk/news/uk-politics-16175167?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_9/index.xhtml
+Downloading
+http://www.bbc.co.uk/news/business-16177657?print=true Fetchingsaved to Downloaded article: Domestic abuse under consultation from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175167
+9% Article downloaded: u'Domestic abuse under consultation'
+/tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_12/index.xhtml 
+http://www.bbc.co.uk/news/world-europe-16177680?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/world-middle-east-16174584?print=true
+Downloaded article: Warehouse cost hits Superdry firm from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16177657
+9% Article downloaded: u'Warehouse cost hits Superdry firm'
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315555_57315554.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57319000/gif/_57319335_liege_attack_624.gif
+Processing images...
+http://www.bbc.co.uk/news/technology-16177013?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_18/index.xhtml
+Downloading
+Downloaded article: Google moves to delete fraud appsFetching  from http://www.bbc.co.uk/go/rss/int/news/-/news/technology-16177013
+9% Article downloaded: u'Google moves to delete fraud apps'
+http://www.bbc.co.uk/news/business-16175309?print=true
+Fetching http://news.bbcimg.co.uk/media/images/53412000/jpg/_53412950_unemploymentjobsukmayons.jpg
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16172662?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175309?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175309?print=true
+http://www.bbc.co.uk/news/business-16173578?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_4/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-16174233?print=true
+Downloaded article: Thomas Cook to close 200 branches from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173578
+10% Article downloaded: u'Thomas Cook to close 200 branches'
+http://www.bbc.co.uk/news/business-16173578?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_8/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16172996?print=true
+Downloaded article: Thomas Cook to close 200 branches from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173578
+10% Article downloaded: u'Thomas Cook to close 200 branches'
+http://www.bbc.co.uk/news/business-16175309?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_0/index.xhtmlhttp://www.bbc.co.uk/news/business-16175309?print=true
+ saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_0/index.xhtml
+Downloading
+Downloading
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Fetching http://www.bbc.co.uk/news/business-16173881?print=true
+Downloaded article: Unemployment increases to 2.64m from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175309
+10% Article downloaded: u'Unemployment increases to 2.64m'
+Downloaded article: Unemployment increases to 2.64m from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175309
+11% Article downloaded: u'Unemployment increases to 2.64m'
+http://www.bbc.co.uk/news/world-europe-16172662?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_0/article_2/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/world-middle-east-16172886?print=true
+Downloaded article: Body found in Liege killer's shed from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16172662
+11% Article downloaded: u"Body found in Liege killer's shed"
+Processing images...
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-merseyside-16174046?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57313000/jpg/_57313632_gunshon_141211_jpg.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-16174678?print=true
+http://www.bbc.co.uk/news/uk-england-merseyside-16174046?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_13/index.xhtml
+Downloaded article: Warden suspended after cell death from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-merseyside-16174046
+11% Article downloaded: u'Warden suspended after cell death'
+Downloading
+Fetching http://www.bbc.co.uk/news/world-asia-india-16174470?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312934_013405260-1.jpg
+http://www.bbc.co.uk/news/uk-england-16174678?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_12/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-16176193?print=true
+Downloaded article: Murder charge over missing woman from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-16174678
+12% Article downloaded: u'Murder charge over missing woman'
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-northern-ireland-16173553?print=true
+Processing images...
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57313000/jpg/_57313389_hi007678908.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57318000/jpg/_57318403_cambsfire.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57286000/jpg/_57286375_57286372.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57310000/jpg/_57310090_miamishowband.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57302000/jpg/_57302436_jollyroger.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/technology-16174745?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-hampshire-16164191?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-northern-ireland-16179921?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-england-cambridgeshire-16174783?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-16153905?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312527_013523353-1.jpg
+http://www.bbc.co.uk/news/uk-northern-ireland-16173553?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_19/index.xhtml
+Downloading
+Fetching Downloaded article: NI car insurance 11% more than GBhttp://www.bbc.co.uk/news/business-16175309?print=true
+ from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-16173553
+12% Article downloaded: u'NI car insurance 11% more than GB'
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312534_013514454-1.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57318000/jpg/_57318854_013523841-1.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57313000/gif/_57313182_png_lae_141211.gif
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16173847?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16177680?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/51676000/jpg/_51676223_011246673-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-16173888?print=true
+Processing images...
+http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_17/index.xhtml
+Downloaded article: Tracey Emin to become a professor from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16175033
+12% Article downloaded: u'Tracey Emin to become a professor'
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-16175509?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-india-16172942?print=true
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57314000/jpg/_57314717_013513249-1.jpg
+Fetching http://news.bbcimg.co.uk/media/images/56770000/jpg/_56770325_013181465-1.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312050_013521181-1.jpg
+http://www.bbc.co.uk/news/technology-16174745?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_15/index.xhtml
+http://www.bbc.co.uk/news/world-asia-16153905?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_12/index.xhtml
+Downloading
+http://www.bbc.co.uk/news/uk-england-hampshire-16164191?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_16/index.xhtml
+Fetching Downloading
+http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true
+Downloaded article: UK 'lags on high-speed broadband' from Downloading
+Fetching http://www.bbc.co.uk/go/rss/int/news/-/news/technology-16174745
+13% Article downloaded: u"UK 'lags on high-speed broadband'"
+Downloaded article: Spanking naval commander jailed http://www.bbc.co.uk/news/uk-politics-16172438?print=truefromFetching http://www.bbc.co.uk/news/uk-politics-16175167?print=true
+
+ http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-16153905
+13% Article downloaded: u'Spanking naval commander jailed'
+Downloaded article: Rare Jolly Roger goes on display from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-hampshire-16164191
+13% Article downloaded: u'Rare Jolly Roger goes on display'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173885?print=true
+http://www.bbc.co.uk/news/uk-northern-ireland-16179921?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_18/index.xhtml
+http://www.bbc.co.uk/news/uk-england-cambridgeshire-16174783?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_1/article_14/index.xhtml
+Downloading
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-16173009?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57320000/jpg/_57320522_euros.jpg
+Fetching http://www.bbc.co.uk/news/uk-politics-16171655?print=true
+Downloaded article: 'Agent involved' in Miami murders from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-northern-ireland-16179921
+14% Article downloaded: u"'Agent involved' in Miami murders"
+Downloaded article: Arson hits 66,000 tonnes of straw from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-england-cambridgeshire-16174783
+14% Article downloaded: u'Arson hits 66,000 tonnes of straw'
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16177984?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-middle-east-16172886?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16181054?print=true
+http://www.bbc.co.uk/news/world-europe-16177680?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_14/index.xhtml
+Downloading
+Downloaded article: Bag of sweets prompts fatal fire from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16177680
+14% Article downloaded: u'Bag of sweets prompts fatal fire'
+Fetching http://www.bbc.co.uk/news/uk-wales-politics-16178387?print=true
+http://www.bbc.co.uk/news/world-asia-16173888?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_8/index.xhtml
+Downloading
+Downloaded article: Big quake hits Papua New Guinea from Fetching http://www.bbc.co.uk/news/uk-politics-13248179?print=true
+http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-16173888
+15% Article downloaded: u'Big quake hits Papua New Guinea'
+http://www.bbc.co.uk/news/world-europe-16173847?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_10/index.xhtml
+Downloaded article: Norway marks Antarctic centenary from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16173847
+15% Article downloaded: u'Norway marks Antarctic centenary'
+Processing images...
+Downloading
+Fetching http://www.bbc.co.uk/news/world-europe-16173847?print=true
+Could not fetch linkProcessing images...
+ http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true
+Fetching Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 416, in process_links
+    dsrc = self.fetch_url(iurl)
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 210, in fetch_url
+    with closing(open_func(url, timeout=self.timeout)) as f:
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 205, in open_novisit
+    return self._mech_open(url, data, visit=False, timeout=timeout)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 236, in _mech_open
+    response = UserAgentBase.open(self, request, data)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_opener.py", line 202, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 315, in http_response
+    self.head_parser_class())
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 285, in parse_head
+    parser.feed(data)
+  File "/usr/lib/python2.7/sgmllib.py", line 104, in feed
+    self.goahead(0)
+  File "/usr/lib/python2.7/sgmllib.py", line 138, in goahead
+    k = self.parse_starttag(i)
+  File "/usr/lib/python2.7/sgmllib.py", line 264, in parse_starttag
+    j = match.start(0)
+  File "/usr/lib/calibre/calibre/web/feeds/feedparser.py", line 184, in start
+    return self.match.end(n)
+AttributeError: 'NoneType' object has no attribute 'end'
+
+http://news.bbcimg.co.uk/media/images/57304000/jpg/_57304992_013521005-1.jpg
+http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true saved to 
+DownloadingFetching
+ http://news.bbcimg.co.uk/media/images/57317000/jpg/_57317161_57315144.jpg
+Processing images...
+Fetching http://www.bbc.co.uk/news/world-africa-16165760?print=true
+Failed to download article: EU veto 'may harm Scots fishing' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-scotland-politics-16174703
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+
+
+15% Article download failed: u"EU veto 'may harm Scots fishing'"
+Fetching http://news.bbcimg.co.uk/media/images/57275000/jpg/_57275524_57272297.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57317000/jpg/_57317211_57317210.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-middle-east-16174584?print=true
+Processing images...
+http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_2/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/technology-16177013?print=true
+Downloaded article: Taylor jewellery sells for $116m from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16161592
+16% Article downloaded: u'Taylor jewellery sells for $116m'
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312510_013517943-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-middle-east-16176316?print=truehttp://www.bbc.co.uk/news/business-16173885?print=true
+http://www.bbc.co.uk/news/world-asia-india-16172942?print=true saved to saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_11/index.xhtml
+ /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_7/index.xhtml
+Downloading
+Downloaded article: China vows to grow in 'grim' 2012 from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173885
+Fetching16% Article downloaded: u"China vows to grow in 'grim' 2012"
+Downloaded article: India in anti-corruption meeting  from http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-india-16172942
+http://www.bbc.co.uk/news/technology-16174745?print=true
+16% Article downloaded: u'India in anti-corruption meeting'
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16172453?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312479_013380144-1.jpg
+http://www.bbc.co.uk/news/world-asia-16173009?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_9/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/newsbeat/16174759?print=true
+Downloaded article: Khmer Rouge 'First Lady' detained from http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-16173009
+17% Article downloaded: u"Khmer Rouge 'First Lady' detained"
+http://www.bbc.co.uk/news/business-16181054?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_13/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/magazine-16178055?print=true
+Downloaded article: Euro hits new 11-month dollar low from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16181054
+17% Article downloaded: u'Euro hits new 11-month dollar low'
+http://www.bbc.co.uk/news/world-middle-east-16172886?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_1/index.xhtml
+Downloaded article: Iraq PM calls for US investment from http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-16172886
+17% Article downloaded: u'Iraq PM calls for US investment'
+Downloading
+Fetching http://news.bbcimg.co.uk/media/images/55538000/gif/_55538950_china_lufeng_0911.gif
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-china-16173768?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/55492000/jpg/_55492414_012914143-1.jpg
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57312000/jpg/_57312080_fi8nasm6.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16175877?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173881?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16172662?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16172996?print=true
+http://www.bbc.co.uk/news/world-middle-east-16174584?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_15/index.xhtml
+Processing images...
+Downloaded article: Israel re-opens Jerusalem walkway from http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-16174584
+18% Article downloaded: u'Israel re-opens Jerusalem walkway'
+Downloading
+Fetching http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57310000/jpg/_57310684_013514030-1.jpg
+Could not fetch link http://www.bbc.co.uk/news/business-16172453?print=true
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 416, in process_links
+    dsrc = self.fetch_url(iurl)
+  File "/usr/lib/calibre/calibre/web/fetch/simple.py", line 210, in fetch_url
+    with closing(open_func(url, timeout=self.timeout)) as f:
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 205, in open_novisit
+    return self._mech_open(url, data, visit=False, timeout=timeout)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_mechanize.py", line 236, in _mech_open
+    response = UserAgentBase.open(self, request, data)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_opener.py", line 202, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 315, in http_response
+    self.head_parser_class())
+  File "/usr/lib/python2.7/dist-packages/mechanize/_http.py", line 285, in parse_head
+    parser.feed(data)
+  File "/usr/lib/python2.7/sgmllib.py", line 104, in feed
+    self.goahead(0)
+  File "/usr/lib/python2.7/sgmllib.py", line 138, in goahead
+    k = self.parse_starttag(i)
+  File "/usr/lib/python2.7/sgmllib.py", line 293, in parse_starttag
+    if rawdata[j] == '>':
+IndexError: string index out of range
+
+http://www.bbc.co.uk/news/business-16172453?print=true saved to 
+Downloading
+Failed to download article: Japan's Nexon in $1.2bn float Fetchingfrom http://www.bbc.co.uk/go/rss/int/news/-/news/business-16172453
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+ http://www.bbc.co.uk/news/entertainment-arts-16174735?print=true
+
+
+18% Article download failed: u"Japan's Nexon in $1.2bn float"
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-middle-east-16172151?print=true
+Processing images...
+http://www.bbc.co.uk/news/world-middle-east-16176316?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_6/index.xhtml
+Downloading
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-16174233?print=true
+Fetching http://www.bbc.co.uk/news/business-16175309?print=true
+Downloaded article: Vandals attack Jerusalem mosque from http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-16176316
+18% Article downloaded: u'Vandals attack Jerusalem mosque'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+http://www.bbc.co.uk/news/world-europe-16175877?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_3/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16178556?print=true
+Downloaded article: Florence mourns trader killings from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16175877
+19% Article downloaded: u'Florence mourns trader killings'
+http://www.bbc.co.uk/news/business-16173881?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_19/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16173578?print=true
+Downloaded article: Asia profits boost for Zara firm from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173881
+19% Article downloaded: u'Asia profits boost for Zara firm'
+http://www.bbc.co.uk/news/business-16172996?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_18/index.xhtml
+http://www.bbc.co.uk/news/world-asia-china-16173768?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_4/index.xhtml
+Downloading
+Downloaded article: Olympus files financial earnings from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16172996
+19% Article downloaded: u'Olympus files financial earnings'
+Downloaded article: China village protest escalates from http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-china-16173768
+20% Article downloaded: u'China village protest escalates'
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16175022?print=true
+Fetching http://www.bbc.co.uk/news/business-16177657?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-middle-east-16172886?print=true
+http://www.bbc.co.uk/news/world-middle-east-16172151?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_5/index.xhtml
+Downloaded article: Egypt starts next round of voting from http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-16172151
+20% Article downloaded: u'Egypt starts next round of voting'
+http://www.bbc.co.uk/news/uk-16174233?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_17/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16172996?print=true
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16181054?print=true
+Downloaded article: Diamond Jubilee plan is unveiled from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-16174233
+20% Article downloaded: u'Diamond Jubilee plan is unveiled'
+http://www.bbc.co.uk/news/world-europe-16172662?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_0/index.xhtml
+Downloaded article: Body found in Liege killer's shed from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16172662
+21% Article downloaded: u"Body found in Liege killer's shed"
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16173884?print=true
+http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_3/article_0/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16173885?print=true
+Downloaded article: Taylor jewellery sells for $116m from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16161592
+21% Article downloaded: u'Taylor jewellery sells for $116m'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175309?print=true
+http://www.bbc.co.uk/news/world-middle-east-16172886?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_3/article_1/index.xhtml
+Downloaded article: Iraq PM calls for US investment from http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-16172886
+21% Article downloaded: u'Iraq PM calls for US investment'
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16165616?print=true
+http://www.bbc.co.uk/news/business-16175309?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_2/article_16/index.xhtml
+Downloading
+Downloaded article: Unemployment increases to 2.64m from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175309
+22% Article downloaded: u'Unemployment increases to 2.64m'
+Fetching http://www.bbc.co.uk/news/business-16173881?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315445_013504095-1.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315446_013504064-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-asia-india-16174470?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16176193?print=true
+http://www.bbc.co.uk/news/world-asia-india-16174470?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_3/article_2/index.xhtml
+Downloaded article: Lawsuit filed for Las Vegas crash from http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-india-16174470
+22% Article downloaded: u'Lawsuit filed for Las Vegas crash'
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16172453?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16175509?print=true
+http://www.bbc.co.uk/news/uk-politics-16176193?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_0/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true
+Downloaded article: PM 'must get better deal for UK' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16176193
+22% Article downloaded: u"PM 'must get better deal for UK'"
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16172438?print=true
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316781_013504882-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16175167?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16177984?print=true
+http://www.bbc.co.uk/news/uk-politics-16175509?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_2/index.xhtml
+Downloaded article: Peers ordered to repay expenses from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175509
+23% Article downloaded: u'Peers ordered to repay expenses'
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-wales-16163721?print=true
+Processing images...
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57309000/jpg/_57309907_000733045-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/technology-16174745?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16171655?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-europe-16173847?print=true
+http://www.bbc.co.uk/news/uk-politics-16172438?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_4/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-13248179?print=true
+Downloaded article: Lib Dems refuse to back EU vote from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16172438
+23% Article downloaded: u'Lib Dems refuse to back EU vote'
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/55988000/jpg/_55988823_012841056-1.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57301000/jpg/_57301822_crunch336.jpg
+http://www.bbc.co.uk/news/uk-politics-16175167?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_5/index.xhtml
+Downloaded article: Domestic abuse under consultation from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175167
+23% Article downloaded: u'Domestic abuse under consultation'
+Downloading
+Fetching http://www.bbc.co.uk/news/uk-politics-16175503?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-wales-politics-16178387?print=true
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57313000/jpg/_57313216_ap_rihanna.jpg
+http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16177984?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_7/index.xhtml
+Downloading
+Fetching http://www.bbc.co.uk/news/business-16177193?print=true
+Downloaded article: Health boss warns of ill Scotland from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-scotland-politics-16177984
+24% Article downloaded: u'Health boss warns of ill Scotland'
+http://www.bbc.co.uk/news/world-europe-16173847?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_5/article_0/index.xhtml
+Processing images...
+Processing images...
+Downloaded article: Norway marks Antarctic centenary from http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-16173847
+24% Article downloaded: u'Norway marks Antarctic centenary'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/technology-16177013?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/newsbeat/16174759?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57305000/jpg/_57305717_1053889.jpghttp://www.bbc.co.uk/news/technology-16174745?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_6/article_1/index.xhtml
+
+Downloaded article: UK 'lags on high-speed broadband' from http://www.bbc.co.uk/go/rss/int/news/-/news/technology-16174745
+24% Article downloaded: u"UK 'lags on high-speed broadband'"
+http://www.bbc.co.uk/news/uk-politics-16171655?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_6/index.xhtml
+Downloaded article: Missing voters 'up 50% in decade' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16171655
+25% Article downloaded: u"Missing voters 'up 50% in decade'"
+Fetching http://news.bbcimg.co.uk/media/images/57307000/jpg/_57307435_1053891.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57318000/jpg/_57318320_1031304.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175309?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/world-africa-16165760?print=true
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16178556?print=true
+Processing images...
+http://www.bbc.co.uk/news/uk-wales-politics-16178387?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_8/index.xhtml
+Downloaded article: Unemployment increases by 11,000 from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-politics-16178387
+25% Article downloaded: u'Unemployment increases by 11,000'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315623_artist_hugo464.jpg
+http://www.bbc.co.uk/news/entertainment-arts-16161592?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_8/article_0/index.xhtml
+Downloaded article: Taylor jewellery sells for $116m from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16161592
+25% Article downloaded: u'Taylor jewellery sells for $116m'
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315714_57315713.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/entertainment-arts-16174735?print=true
+http://www.bbc.co.uk/newsbeat/16174759?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_6/article_3/index.xhtml
+http://www.bbc.co.uk/news/technology-16177013?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_6/article_0/index.xhtml
+Downloaded article: Rihanna 'most liked' on Facebook from http://www.bbc.co.uk/go/rss/int/news/-/newsbeat/16174759
+26% Article downloaded: u"Rihanna 'most liked' on Facebook"
+Downloaded article: Google moves to delete fraud apps from http://www.bbc.co.uk/go/rss/int/news/-/news/technology-16177013
+26% Article downloaded: u'Google moves to delete fraud apps'
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57318000/jpg/_57318741_013524389-1.jpg
+http://www.bbc.co.uk/news/business-16178556?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_1/index.xhtml
+Downloaded article: Morrisons unveils 7,000 new jobs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16178556
+26% Article downloaded: u'Morrisons unveils 7,000 new jobs'
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173884?print=true
+Processing images...
+http://www.bbc.co.uk/news/business-16175309?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_1/index.xhtml
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16172996?print=true
+Downloaded article: Unemployment increases to 2.64m from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175309
+27% Article downloaded: u'Unemployment increases to 2.64m'
+Processing images...
+http://www.bbc.co.uk/news/world-africa-16165760?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_5/article_1/index.xhtml
+Downloaded article: Sierra Leone eyes bird-watchers from http://www.bbc.co.uk/go/rss/int/news/-/news/world-africa-16165760
+27% Article downloaded: u'Sierra Leone eyes bird-watchers'
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175022?print=true
+http://www.bbc.co.uk/news/entertainment-arts-16175033?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_8/article_1/index.xhtml
+Downloaded article: Tracey Emin to become a professor from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16175033
+27% Article downloaded: u'Tracey Emin to become a professor'
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16177657?print=true
+http://www.bbc.co.uk/news/entertainment-arts-16174735?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_8/article_2/index.xhtml
+Downloaded article: Artist and Hugo top Critics' nods from http://www.bbc.co.uk/go/rss/int/news/-/news/entertainment-arts-16174735
+28% Article downloaded: u"Artist and Hugo top Critics' nods"
+Processing images...
+Processing images...
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173885?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16181054?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57304000/jpg/_57304613_004493357-1.jpg
+http://www.bbc.co.uk/news/business-16173884?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_7/index.xhtml
+Downloaded article: Indian inflation remains above 9% from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173884
+28% Article downloaded: u'Indian inflation remains above 9%'
+http://www.bbc.co.uk/news/business-16172996?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_5/index.xhtml
+Downloaded article: Olympus files financial earnings from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16172996
+28% Article downloaded: u'Olympus files financial earnings'
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16165616?print=true
+http://www.bbc.co.uk/news/business-16175022?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_4/index.xhtml
+Downloaded article: OFT to study car insurance costs from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175022
+29% Article downloaded: u'OFT to study car insurance costs'
+Processing images...
+Processing images...
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173578?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16173881?print=true
+http://www.bbc.co.uk/news/business-16181054?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_6/index.xhtml
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-13248179?print=true
+http://www.bbc.co.uk/news/business-16177657?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_3/index.xhtml
+Downloaded article: Euro hits new 11-month dollar low from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16181054
+29% Article downloaded: u'Euro hits new 11-month dollar low'
+Downloaded article: Warehouse cost hits Superdry firm from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16177657
+29% Article downloaded: u'Warehouse cost hits Superdry firm'
+Processing images...
+http://www.bbc.co.uk/news/business-16173885?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_8/index.xhtml
+Downloaded article: China vows to grow in 'grim' 2012 from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173885
+30% Article downloaded: u"China vows to grow in 'grim' 2012"
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16175309?print=true
+http://www.bbc.co.uk/news/business-16165616?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_9/index.xhtml
+Downloaded article: Banks to display saver guarantee from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16165616
+30% Article downloaded: u'Banks to display saver guarantee'
+http://www.bbc.co.uk/news/business-16173881?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_10/index.xhtml
+Downloaded article: Asia profits boost for Zara firm from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173881
+30% Article downloaded: u'Asia profits boost for Zara firm'
+http://www.bbc.co.uk/news/business-16173578?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_2/index.xhtml
+Downloaded article: Thomas Cook to close 200 branches from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16173578
+31% Article downloaded: u'Thomas Cook to close 200 branches'
+Processing images...
+http://www.bbc.co.uk/news/business-16175309?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_0/index.xhtml
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316490_mouth_thinkstock.jpg
+Downloaded article: Unemployment increases to 2.64m from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16175309
+31% Article downloaded: u'Unemployment increases to 2.64m'
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316489_iibuprofenspl.jpg
+Fetching http://news.bbcimg.co.uk/media/images/57316000/jpg/_57316492_marathon_thinkstock.jpg
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57311000/jpg/_57311576_109449575.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/magazine-16178055?print=true
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16172453?print=true
+http://www.bbc.co.uk/news/uk-politics-13248179?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_4/article_9/index.xhtml
+Downloaded article: Poll tracker from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-13248179
+31% Article downloaded: u'Poll tracker'
+http://www.bbc.co.uk/news/business-16172453?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_11/index.xhtml
+Downloaded article: Japan's Nexon in $1.2bn float from http://www.bbc.co.uk/go/rss/int/news/-/news/business-16172453
+32% Article downloaded: u"Japan's Nexon in $1.2bn float"
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57314000/jpg/_57314061_000852012-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true
+http://www.bbc.co.uk/news/magazine-16178055?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_7/article_0/index.xhtml
+Downloaded article: The love affair with ibuprofen from http://www.bbc.co.uk/go/rss/int/news/-/news/magazine-16178055
+32% Article downloaded: u'The love affair with ibuprofen'
+Processing images...
+Fetching http://news.bbcimg.co.uk/media/images/57306000/jpg/_57306344_013505509-1.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-wales-16163721?print=true
+http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16174703?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_12/index.xhtml
+Downloaded article: EU veto 'may harm Scots fishing' from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-scotland-politics-16174703
+32% Article downloaded: u"EU veto 'may harm Scots fishing'"
+http://www.bbc.co.uk/news/uk-wales-16163721?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_9/article_13/index.xhtml
+Downloaded article: Energy centre to create 250 jobs from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-wales-16163721
+33% Article downloaded: u'Energy centre to create 250 jobs'
+Processing images...
+Fetching http://newsimg.bbc.co.uk/media/images/52590000/jpg/_52590738_robinson-144x104-grey.jpg
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-16175503?print=true
+Processing images...
+Fetching http://newsimg.bbc.co.uk/media/images/52591000/jpg/_52591073_peston-144x104-grey.jpg
+Processing images...
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/uk-politics-13248179?print=true
+Fetching http://news.bbcimg.co.uk/media/images/57315000/jpg/_57315246_753-1.jpg
+http://www.bbc.co.uk/news/uk-politics-16175503?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_12/article_0/index.xhtml
+Downloaded article: A poll bounce with consequences from http://www.bbc.co.uk/news/uk-politics-16175503
+33% Article downloaded: u'A poll bounce with consequences'
+Recursion limit reached. Skipping links in http://www.bbc.co.uk/news/business-16177193?print=true
+http://www.bbc.co.uk/news/business-16177193?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_13/article_0/index.xhtml
+http://www.bbc.co.uk/news/uk-politics-13248179?print=true saved to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/feed_10/article_0/index.xhtml
+Downloaded article: Co-op set to become big banker from http://www.bbc.co.uk/news/business-16177193
+33% Article downloaded: u'Co-op set to become big banker'
+Downloaded article: Poll tracker from http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-13248179
+34% Article downloaded: u'Poll tracker'
+34% Feeds downloaded to /tmp/calibre_0.7.44_tmp_0tL2Zi/calibre_0.7.44_nXoa3__plumber/index.html
+34% Download finished
+Failed to download the following articles:
+Many diabetes deaths 'avoidable' from News Home
+http://www.bbc.co.uk/go/rss/int/news/-/news/health-16147731
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+Peers ordered to repay expenses from UK
+http://www.bbc.co.uk/go/rss/int/news/-/news/uk-politics-16175509
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+EU veto 'may harm Scots fishing' from Politics
+http://www.bbc.co.uk/go/rss/int/news/-/news/uk-scotland-scotland-politics-16174703
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+Japan's Nexon in $1.2bn float from Technology
+http://www.bbc.co.uk/go/rss/int/news/-/news/business-16172453
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/utils/threadpool.py", line 95, in run
+    (request, request.callable(*request.args, **request.kwds))
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 852, in fetch_article
+    return self._fetch_article(url, dir, f, a, num_of_feeds)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 847, in _fetch_article
+    raise Exception(msg)
+Exception: Could not fetch article. The debug traceback is available earlier in this log
+
+Parsing all content...
+Parsing feed_12/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_12/index.html' as HTML
+Forcing feed_12/index.html into XHTML namespace
+Parsing feed_2/article_13/index.html ...
+Parsing feed_1/article_16/index.html ...
+Parsing feed_0/article_4/index.html ...
+Parsing feed_1/article_13/index.html ...
+Parsing feed_2/article_6/index.html ...
+Parsing feed_7/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_7/index.html' as HTML
+Forcing feed_7/index.html into XHTML namespace
+Parsing feed_2/article_8/index.html ...
+Parsing feed_9/article_12/index.html ...
+Parsing feed_4/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_4/index.html' as HTML
+Forcing feed_4/index.html into XHTML namespace
+Parsing feed_2/article_15/index.html ...
+Parsing feed_4/article_5/index.html ...
+Parsing feed_4/article_0/index.html ...
+Parsing feed_1/article_7/index.html ...
+Parsing feed_1/article_10/index.html ...
+Parsing feed_1/article_19/index.html ...
+Parsing feed_2/article_10/index.html ...
+Parsing feed_2/article_3/index.html ...
+Parsing feed_1/article_0/index.html ...
+Parsing feed_1/article_1/index.html ...
+Parsing feed_10/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_10/index.html' as HTML
+Forcing feed_10/index.html into XHTML namespace
+Parsing feed_2/article_18/index.html ...
+Parsing feed_1/article_8/index.html ...
+Parsing feed_13/article_0/index.html ...
+Parsing feed_1/article_14/index.html ...
+Parsing feed_2/article_5/index.html ...
+Parsing feed_1/article_4/index.html ...
+Parsing feed_3/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_3/index.html' as HTML
+Forcing feed_3/index.html into XHTML namespace
+Parsing feed_4/article_1/index.html ...
+Parsing feed_1/article_9/index.html ...
+Parsing feed_2/article_0/index.html ...
+Parsing feed_9/article_11/index.html ...
+Parsing feed_2/article_2/index.html ...
+Parsing feed_9/article_10/index.html ...
+Parsing feed_9/article_5/index.html ...
+Parsing feed_2/article_16/index.html ...
+Parsing feed_2/article_11/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Entity 'squot' not defined, line 6, column 32
+
+Parsing file 'feed_2/article_11/index.html' as HTML
+Forcing feed_2/article_11/index.html into XHTML namespace
+Parsing feed_4/article_9/index.html ...
+Parsing feed_2/article_9/index.html ...
+Parsing feed_4/article_7/index.html ...
+Parsing feed_2/article_14/index.html ...
+Parsing feed_3/article_1/index.html ...
+Parsing feed_2/article_12/index.html ...
+Parsing feed_3/article_0/index.html ...
+Parsing feed_12/article_0/index.html ...
+Parsing feed_2/article_1/index.html ...
+Parsing index.html ...
+Forcing index.html into XHTML namespace
+Parsing feed_2/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_2/index.html' as HTML
+Forcing feed_2/index.html into XHTML namespace
+Parsing feed_5/article_0/index.html ...
+Parsing feed_9/article_1/index.html ...
+Parsing feed_4/article_4/index.html ...
+Parsing feed_7/article_0/index.html ...
+Parsing feed_0/article_14/index.html ...
+Parsing feed_0/article_5/index.html ...
+Parsing feed_1/article_5/index.html ...
+Parsing feed_11/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_11/index.html' as HTML
+Forcing feed_11/index.html into XHTML namespace
+Parsing feed_9/article_7/index.html ...
+Parsing feed_8/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_8/index.html' as HTML
+Forcing feed_8/index.html into XHTML namespace
+Parsing feed_0/article_17/index.html ...
+Parsing feed_6/article_1/index.html ...
+Parsing feed_1/article_12/index.html ...
+Parsing feed_0/article_16/index.html ...
+Parsing feed_4/article_6/index.html ...
+Parsing feed_1/article_18/index.html ...
+Parsing feed_9/article_8/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Entity 'squot' not defined, line 6, column 32
+
+Parsing file 'feed_9/article_8/index.html' as HTML
+Forcing feed_9/article_8/index.html into XHTML namespace
+Parsing feed_5/article_1/index.html ...
+Parsing feed_1/article_11/index.html ...
+Parsing feed_0/article_10/index.html ...
+Parsing feed_1/article_6/index.html ...
+Parsing feed_0/article_15/index.html ...
+Parsing feed_0/article_11/index.html ...
+Parsing feed_5/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_5/index.html' as HTML
+Forcing feed_5/index.html into XHTML namespace
+Parsing feed_2/article_7/index.html ...
+Parsing feed_9/article_2/index.html ...
+Parsing feed_9/article_9/index.html ...
+Parsing feed_0/article_18/index.html ...
+Parsing feed_2/article_17/index.html ...
+Parsing feed_0/article_9/index.html ...
+Parsing feed_8/article_2/index.html ...
+Parsing feed_0/article_3/index.html ...
+Parsing feed_1/article_17/index.html ...
+Parsing feed_13/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_13/index.html' as HTML
+Forcing feed_13/index.html into XHTML namespace
+Parsing feed_0/article_8/index.html ...
+Parsing feed_9/article_4/index.html ...
+Parsing feed_0/article_1/index.html ...
+Parsing feed_0/article_6/index.html ...
+Parsing feed_6/article_0/index.html ...
+Parsing feed_0/article_0/index.html ...
+Parsing feed_0/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_0/index.html' as HTML
+Forcing feed_0/index.html into XHTML namespace
+Parsing feed_0/article_2/index.html ...
+Parsing feed_4/article_2/index.html ...
+Parsing feed_1/article_3/index.html ...
+Parsing feed_9/article_13/index.html ...
+Parsing feed_3/article_2/index.html ...
+Parsing feed_0/article_13/index.html ...
+Parsing feed_4/article_8/index.html ...
+Parsing feed_9/article_3/index.html ...
+Parsing feed_10/article_0/index.html ...
+Parsing feed_6/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_6/index.html' as HTML
+Forcing feed_6/index.html into XHTML namespace
+Parsing feed_2/article_4/index.html ...
+Parsing feed_8/article_0/index.html ...
+Parsing feed_1/article_15/index.html ...
+Parsing feed_9/article_6/index.html ...
+Parsing feed_0/article_12/index.html ...
+Parsing feed_9/article_0/index.html ...
+Parsing feed_9/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_9/index.html' as HTML
+Forcing feed_9/index.html into XHTML namespace
+Parsing feed_1/index.html ...
+Initial parse failed:
+Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/ebooks/oeb/base.py", line 863, in first_pass
+    data = etree.fromstring(data, parser=parser)
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1445, in lxml.etree._parseDoc (src/lxml/lxml.etree.c:78709)
+  File "parser.pxi", line 920, in lxml.etree._BaseParser._parseUnicodeDoc (src/lxml/lxml.etree.c:75083)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Opening and ending tag mismatch: hr line 29 and div, line 30, column 7
+
+Parsing file 'feed_1/index.html' as HTML
+Forcing feed_1/index.html into XHTML namespace
+Parsing feed_6/article_3/index.html ...
+Parsing feed_2/article_19/index.html ...
+Parsing feed_0/article_19/index.html ...
+Parsing feed_8/article_1/index.html ...
+Referenced file '/news/correspondents/nickrobinson' not found
+Referenced file '/news/business/market_data/shares/3/87260/default.stm' not found
+Referenced file '/news/correspondents/robertpeston' not found
+Referenced file 'feed_14/index.html' not found
+Referenced file 'feed_4/article_3/index.html' not found
+Referenced file 'feed_1/article_2/index.html' not found
+Referenced file 'feed_0/article_7/index.html' not found
+Referenced file 'feed_6/article_2/index.html' not found
+Referenced file '/news/business/market_data/shares/3/159252/default.stm' not found
+Reading TOC from NCX...
+34% Running transforms on ebook...
+Merging user specified metadata...
+Detecting structure...
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Cleaning up manifest...
+Trimming unused files from manifest...
+Parsing stylesheet.css ...
+Creating MOBI Output...
+67% Creating MOBI Output
+Generating in-line TOC...
+Applying case-transforming CSS...
+Parsing manglecase.css ...
+Parsing tocstyle.css ...
+SVG rasterizer unavailable, SVG will not be converted
+Converting XHTML to Mobipocket markup...
+Converting TOC for MOBI periodical indexing...
+Using mastheadImage supplied in manifest...
+Serializing markup content...
+  Compressing markup content...
+  MOBI periodical specified, evaluating TOC for periodical conformance ...
+  TOC structure conforms
+Generating structured CTOC ...
+  CNCX utilization: 1 record, 24% full
+Indexing navPoints ...
+Generating INDX ...
+Serializing images...
+MOBI output written to /root/calibre-kindle-server/ebooks/bbcnews.mobi
+Output saved to   /root/calibre-kindle-server/ebooks/bbcnews.mobi

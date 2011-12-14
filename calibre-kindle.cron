@@ -3,9 +3,17 @@
 SHELL=/bin/bash
 PATH=/bin:/usr/bin:/usr/local/bin
 
-# m  h	d m y	command
-  30 04	* * *	cd /root/calibre-kindle-server/ && deliver.py bbcnews
-  00 13	* * *	cd /root/calibre-kindle-server/ && deliver.py bbcnews
-  00 22	* * *	cd /root/calibre-kindle-server/ && deliver.py bbcnews
+# m  h	d m dw	command
+# 00 05	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
+# 00 13	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
+# 00 22	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
 
-  00 06	* * *	cd /root/calibre-kindle-server/ && deliver.py acmtechnews
+  00 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py acmtechnews
+
+  15 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py arstech
+
+  03 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py guardian
+
+  45 06	* * 5	cd /root/calibre-kindle-server/ && ./process-recipe.py economist
+
+# Must have newline after last line
