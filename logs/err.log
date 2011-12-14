@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "/usr/bin/ebook-convert", line 19, in <module>
+    sys.exit(main())
+  File "/usr/lib/calibre/calibre/ebooks/conversion/cli.py", line 279, in main
+    plumber.run()
+  File "/usr/lib/calibre/calibre/ebooks/conversion/plumber.py", line 904, in run
+    accelerators, tdir)
+  File "/usr/lib/calibre/calibre/customize/conversion.py", line 204, in __call__
+    log, accelerators)
+  File "/usr/lib/calibre/calibre/web/feeds/input.py", line 101, in convert
+    ro = recipe(opts, log, self.report_progress)
+  File "/usr/lib/calibre/calibre/web/feeds/news.py", line 629, in __init__
+    raise ValueError(_('The "%s" recipe needs a username and password.')%self.title)
+ValueError: The "CACM News" recipe needs a username and password.
+Traceback (most recent call last):
+  File "/usr/bin/calibre-smtp", line 19, in <module>
+    sys.exit(main())
+  File "/usr/lib/calibre/calibre/utils/smtp.py", line 206, in main
+    attachment=opts.attachment)
+  File "/usr/lib/calibre/calibre/utils/smtp.py", line 189, in compose_mail
+    else open(attachment, 'rb').read()
+IOError: [Errno 2] No such file or directory: u'ebooks/cacm.mobi'

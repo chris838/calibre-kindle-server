@@ -1,0 +1,11 @@
+To install:
+
+1. Place this folder somewhere suitable.
+
+2. Edit process-recipe.py script with your SMTP settings.
+
+3. Edit calibre-kindle.cron with this folder location, your schedule and the names of your recipes.
+
+4. Make sure your recipes folder contains the recipes stated in previous step.
+
+6. Run crontab calibre-kindle.cron to schedule job.

@@ -1,0 +1,25 @@
+import datetime
+import time
+from calibre.web.feeds.news import BasicNewsRecipe
+
+class ACMTechNewsRecipe(BasicNewsRecipe):
+    title = "ACM TechNews - " + time.strftime( '%a' )
+    oldest_article = 1
+    max_articles_per_feed = 20
+    use_embedded_content = True
+    needs_subscription = False
+    feeds          = [(u'TechNews', u'http://rss.acm.org/technews/TechNews.rss')]
+    language = 'en'
+    __author__ = 'chrisharding'
+    no_stylesheets        = True
+
+
+    def get_browser(self):
+        br = BasicNewsRecipe.get_browser()
+        if self.username is not None and self.password is not None :
+            br.open('https://cacm.acm.org/login')
+            br.select_form(nr=1)
+            br['current_member[user]']   = self.username
+            br['current_member[passwd]'] = self.password
+            br.submit()
+        return br
