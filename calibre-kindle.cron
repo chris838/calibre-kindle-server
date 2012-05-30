@@ -2,18 +2,20 @@
 
 SHELL=/bin/bash
 PATH=/bin:/usr/bin:/usr/local/bin
+CALIBRE_DIR=/root/calibre-kindle-server
+
 
 # m  h	d m dw	command
-# 00 05	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
-# 00 13	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
-# 00 22	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py bbcnews
+# 00 05	* * *	cd $CALIBRE_DIR && ./process-recipe.py bbcnews
+# 00 13	* * *	cd $CALIBRE_DIR && ./process-recipe.py bbcnews
+# 00 22	* * *	cd $CALIBRE_DIR && ./process-recipe.py bbcnews
 
-  00 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py acmtechnews
+  00 06	* * *	cd $CALIBRE_DIR && ./process-recipe.py acmtechnews
 
-  15 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py arstech
+  15 06	* * *	cd $CALIBRE_DIR && ./process-recipe.py arstech
 
-  03 06	* * *	cd /root/calibre-kindle-server/ && ./process-recipe.py guardian
+  03 06	* * *	cd $CALIBRE_DIR && ./process-recipe.py guardian
 
-  45 06	* * 5	cd /root/calibre-kindle-server/ && ./process-recipe.py economist
+  45 06	* * 5	cd $CALIBRE_DIR && ./process-recipe.py economist
 
 # Must have newline after last line
