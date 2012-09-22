@@ -6,6 +6,6 @@ To install:
 
 3. Edit calibre-kindle.cron with this folder location, your schedule and the names of your recipes.
 
-4. Make sure your recipes folder contains the recipes stated in previous step.
+4. Make sure your recipes folder contains the recipes stated in previous step. Recipes may need updating - calibre itself is a good source.
 
 6. Run crontab calibre-kindle.cron to schedule job.
